@@ -1,0 +1,1 @@
+/usr/bin/c++      -fPIC   CMakeFiles/TrackVisu.dir/TrackVisu.cxx.o  -o TrackVisu -rdynamic -lvtkRendering -lvtkImaging -lvtkIO -lvtkDICOMParser -lpng -ljpeg -ltiff -lexpat -lvtkGraphics -lvtkFiltering -lvtkCommon -lvtksys -lpthread -ldl -lm -lvtkftgl -lfreetype -lz -lGL -lXt -lSM -lICE -lX11 -lXext 
